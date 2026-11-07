@@ -1,0 +1,8 @@
+# Tajni podaci (WiFi lozinka, adresa servera, API kljuc) - NIKAD na GitHub
+secrets.h
+
+# Postavke editora i build datoteke
+.vscode/
+build/
+
+.DS_Store
